@@ -1,3 +1,4 @@
 import 'bootstrap';
+import improveDropdown from '../components/select';
 
-console.log('Hello World from Webpacker')
+improveDropdown();
